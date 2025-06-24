@@ -10,7 +10,7 @@
 
 ## 📸 Demo
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Project+Demo)
+![App Screenshot](./test_repository_image.jpg)
 
 > Replace this with a real screenshot or animated GIF of your app in action.
 
