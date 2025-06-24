@@ -10,7 +10,7 @@
 
 ## 📸 Demo
 
-![App Screenshot](./test_repository_image.jpg)
+![App Screenshot](https://github.com/salim-mohamed-98/test-repository/blob/0056f9e7e19c5d6a473160a07ad30bac96d4a2cb/test_repository_image.jpg)
 
 > Replace this with a real screenshot or animated GIF of your app in action.
 
