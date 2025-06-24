@@ -1,12 +1,10 @@
-![App Screenshot](https://raw.githubusercontent.com/salim-mohamed-98/test-repository/0056f9e7e19c5d6a473160a07ad30bac96d4a2cb/test_repository_image.jpg)
-
-> Replace this with a real screenshot or animated GIF of your app in action.
-
----
-
 # 🌟 Project Name
 
 > A brief, one-sentence description of what this project does.
+
+![App Screenshot](https://raw.githubusercontent.com/salim-mohamed-98/test-repository/0056f9e7e19c5d6a473160a07ad30bac96d4a2cb/test_repository_image.jpg)
+
+> Replace this with a real screenshot or animated GIF of your app in action.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
