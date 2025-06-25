@@ -1,4 +1,7 @@
 # 🌟 Project Name
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-purple.svg)
 
 > A brief, one-sentence description of what this project does.
 
@@ -6,9 +9,6 @@
 
 > Replace this with a real screenshot or animated GIF of your app in action.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-purple.svg)
 
 ## 🚀 Features
 
@@ -16,8 +16,6 @@
 - ⚙️ Feature 2
 - 📦 Feature 3
 - 🌐 Works in all modern browsers
-
----
 
 ## 📦 Tech Stack
 
@@ -29,7 +27,6 @@
 | Deployment  | Vercel / Netlify / Heroku          |
 | API         | GitHub GraphQL API                 |
 
----
 
 ## 🛠️ Installation
 
